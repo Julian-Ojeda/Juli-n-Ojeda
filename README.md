@@ -19,7 +19,7 @@
 ## 📂 Proyectos Destacados
 🔗 **Machine Learning en Colab:**  
 - [🔗 Clasificador de Caracteres con Autoencoder](https://colab.research.google.com/...)  
-- [🔗 Perceptrón Multicapa desde Cero](https://colab.research.google.com/...)  
+- [🔗 Perceptrón Multicapa desde Cero]([https://colab.research.google.com/...](https://colab.research.google.com/drive/1RY7CoMT3FrIyp-Yt4L3vyLJqpax_1i2Q#scrollTo=1WVtr4rOkhe2))  
 - [🔗 Exploración de Datos de Cafetería (EDA)](https://colab.research.google.com/...)  
 
 > *(Podés agregar o quitar proyectos según los que tengas publicados. Si no tenés links aún, déjalo listo para cuando los subas.)*
@@ -32,8 +32,8 @@
 ---
 
 ## 🌎 Conectemos
-- 💼 [LinkedIn](https://www.linkedin.com/in/TU_LINKEDIN)
-- 📧 **julian.ojeda@email.com**
+- 💼 [LinkedIn](www.linkedin.com/in/julianvalentinoojeda)
+- 📧 **julianvojeda2@gmail.com**
 
 ---
 
