@@ -22,7 +22,7 @@
 - [🔗 Perceptrón Multicapa desde Cero](https://colab.research.google.com/drive/1RY7CoMT3FrIyp-Yt4L3vyLJqpax_1i2Q#scrollTo=kg5YGhKSDwdx)
 - [🔗 Exploración de Datos de Cafetería (EDA)](https://colab.research.google.com/...)  
 
-> *(Podés agregar o quitar proyectos según los que tengas publicados. Si no tenés links aún, déjalo listo para cuando los subas.)*
+
 
 ---
 
