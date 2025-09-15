@@ -19,7 +19,7 @@
 ## 📂 Proyectos Destacados
 🔗 **Machine Learning en Colab:**  
 - [🔗 Clasificador de Caracteres con Autoencoder](https://colab.research.google.com/drive/1FbJB7C1-k1yMlkmvflEz1e8KUqZkZPid))  
-- [🔗 Perceptrón Multicapa desde Cero]([https://colab.research.google.com/...](https://colab.research.google.com/drive/1RY7CoMT3FrIyp-Yt4L3vyLJqpax_1i2Q#scrollTo=1WVtr4rOkhe2))  
+- [🔗 Perceptrón Multicapa desde Cero](https://colab.research.google.com/drive/1RY7CoMT3FrIyp-Yt4L3vyLJqpax_1i2Q#scrollTo=kg5YGhKSDwdx)
 - [🔗 Exploración de Datos de Cafetería (EDA)](https://colab.research.google.com/...)  
 
 > *(Podés agregar o quitar proyectos según los que tengas publicados. Si no tenés links aún, déjalo listo para cuando los subas.)*
