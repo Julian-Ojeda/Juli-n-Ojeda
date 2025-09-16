@@ -1,4 +1,4 @@
-# Juli-n-Ojeda
+# Julian-Ojeda
 
 
 # 👋 ¡Hola! Soy Julián Ojeda  
